@@ -1,7 +1,4 @@
-<html>
-<head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script>
 
 // Smooth Scroll on clicking nav items
 $('nav a').click(function () {
@@ -50,7 +47,3 @@ $(document).scroll(function () {
     }
   
 });
-
-</script>
-</head>
-</html>
