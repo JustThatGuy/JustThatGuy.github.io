@@ -1,5 +1,3 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
 // Smooth Scroll on clicking nav items
 $('nav a').click(function () {
   var $href = $(this).attr('href');
