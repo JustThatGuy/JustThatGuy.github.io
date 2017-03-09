@@ -122,3 +122,35 @@ nav span {
 .movetext {
   top: -30px;
 }
+
+#jordy a {
+	text-decoration: none;
+	color: #FFFAF0;
+	font-size: 20px;
+	transition-property: font-size, color;
+	transition-duration: 1s;
+}
+
+#jordy a:hover {
+	text-decoration:underline;
+	font-size: 26px;
+	color: #00ffff;
+}
+			
+#bronnen{
+	 background-color: #FFFAF0;
+	 color: #777;
+}
+
+#bronnen a {
+	text-decoration: none;
+	color: #777;
+	padding-right: 35px;
+	transition-property: color;
+	transition-duration: 0.4s;
+}
+
+#bronnen a:hover {
+	text-decoration: underline;
+	color: #a742f4;
+}
