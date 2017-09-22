@@ -33,7 +33,7 @@ header nav a:hover {
 
 .portion {
   background-image:  url('http://www.magic4walls.com/wp-content/uploads/2014/03/puzzle-balls-render-shadow-3d-shine-art-pattern-hd-wallpaper.jpg');
-  background-position: center center;
+  background-position: center top;
   background-attachment: fixed;
   background-size: cover;
   text-align: center;
